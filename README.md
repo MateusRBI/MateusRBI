@@ -1,7 +1,7 @@
 # 👨‍💻 Mateus Ribeiro de Sousa
 
 # Desenvolvedor Fullstack
-Olá! Me chamo Mateus Ribeiro e tenho 17 anos, atualmente sou estudante do último ano do curso técnico em **Desenvolvimento de Sistemas**. Atuo como desenvolvedor fullstack em formação, com interesse em tecnologias modernas e boas práticas de desenvolvimento.
+Olá! Me chamo Mateus Ribeiro e tenho 18 anos, atualmente sou estudante do último ano do curso técnico em **Desenvolvimento de Sistemas**. Atuo como desenvolvedor fullstack em formação, com interesse em tecnologias modernas e boas práticas de desenvolvimento.
 
 ---
 
